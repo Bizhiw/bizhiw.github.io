@@ -1,4 +1,7 @@
 body {
+	 background-image: linear-gradient(to right, #8818C8 , #5828EE);
+	color: white;
+	background-color: #7E07E7;
 	width: 95%;
 	margin: auto;
 	margin-top: 2%;
@@ -45,7 +48,7 @@ nav ul {
 	margin: 1%;
 	margin-left: 0;
 	margin-right: 0;
-	background-color: #7E07E7;
+	background-color: #000000;
 	text-transform: uppercase;
 	font-size: 1.1em;
 	text-align: center;
@@ -78,7 +81,7 @@ aside {
 
 aside ul {
 	line-height: 1.5em;
-	color: #7E07E7;
+	color: #FFFFFF;
 	font-weight: 700;
 	font-size: 1em;
 	list-style-type: none;
