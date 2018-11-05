@@ -10,7 +10,7 @@ body {
 
 h1 {
 	font-family: 'bitter';
-	color: black;
+	color: white;
 	text-align: center;
 	font-size: 2.5em;
 	margin: 0%;
@@ -37,6 +37,10 @@ p {
 img {
 	width: 30%;
 	margin: 0;
+}
+
+.sig {
+	filter: invert(100%);
 }
 
 article ul{
